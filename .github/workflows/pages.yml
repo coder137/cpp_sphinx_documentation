@@ -19,7 +19,7 @@ jobs:
 
       - name: Setup
         run: |
-          sudo apt-get install ninja-build doxygen python3-sphinx
+          sudo apt-get install ninja-build doxygen graphviz python3-sphinx
 
       - name: Configure CMake
         shell: bash
