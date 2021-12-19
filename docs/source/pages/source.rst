@@ -41,11 +41,14 @@ Document individual classes
 
 .. doxygenclass:: DerivedClass
 
-Template 
-========
-
 Enum / Enum Class
 =================
+
+Document individual enum / enum classes
+
+.. doxygenenum:: c_enum_e
+
+.. doxygenenum:: cpp_enum_e
 
 Literals / Defines
 ===================
