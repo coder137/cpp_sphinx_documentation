@@ -1,6 +1,5 @@
-***********************
 Breathe Usage
-***********************
+==============
 
 See more at https://breathe.readthedocs.io/en/latest/directives.html
 
