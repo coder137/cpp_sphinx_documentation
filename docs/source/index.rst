@@ -11,6 +11,7 @@ Welcome to CPP Sphinx Documentation's documentation!
    :caption: Contents
 
    pages/important_links
+   pages/sphinx_cpp_usage
    pages/source
 
 Indices and tables
