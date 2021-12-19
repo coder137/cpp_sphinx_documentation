@@ -8,7 +8,7 @@ Welcome to CPP Sphinx Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
    pages/important_links
    pages/source
