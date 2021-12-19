@@ -10,6 +10,7 @@ Welcome to CPP Sphinx Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/important_links
    pages/source
 
 Indices and tables
