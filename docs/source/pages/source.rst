@@ -33,6 +33,14 @@ Document individual structs
 Class
 ======
 
+Document individual classes
+
+.. doxygenclass:: CrtpClass
+
+.. doxygenclass:: BaseClass 
+
+.. doxygenclass:: DerivedClass
+
 Template 
 ========
 
