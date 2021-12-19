@@ -1,36 +1,34 @@
+**************
 Breathe Usage
-==============
+**************
 
 See more at https://breathe.readthedocs.io/en/latest/directives.html
+
+Namespaces
+==========
 
 Document all the functions / structs / classes present inside the namespace ``nested::n``
 
 .. doxygennamespace:: nested::n
 
-.. admonition:: TODO
 
-   Free function without namespace
+Functions
+==========
 
-.. admonition:: TODO
+Struct
+======
 
-   Struct without namespace
+Class
+======
 
-.. admonition:: TODO
+Template 
+========
 
-   Class without namespace
+Enum / Enum Class
+=================
 
-.. admonition:: TODO
+Literals / Defines
+===================
 
-   Enum / Enum class without namespace
-
-.. admonition:: TODO
-
-   Literals / defines
-
-.. admonition:: TODO
-
-   Autofile
-
-.. admonition:: TODO
-
-   File
+File
+=====
