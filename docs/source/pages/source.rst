@@ -4,7 +4,8 @@ Breathe Usage
 
 See more at https://breathe.readthedocs.io/en/latest/directives.html
 
-Document all the functions / structs / classes present inside the namespace here
+Document all the functions / structs / classes present inside the namespace ``nested::n``
+
 .. doxygennamespace:: nested::n
 
 .. admonition:: TODO
