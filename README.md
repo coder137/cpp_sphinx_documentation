@@ -97,7 +97,4 @@ VERBATIM USES_TERMINAL
 # Output now generated in `docs/output`
 ```
 
-- Publish to Github Pages
-> TODO, Copy output to root
-
-> TODO, Use Github actions to publish
+- Publish to Github Pages (see **.github/workflows/pages.yml**)

@@ -4,19 +4,40 @@
 
 namespace nested::n {
 
-void namespaced_free_function();
+/**
+ * @brief Just a regular free function inside nested::n namespace
+ *
+ */
+inline void namespaced_free_function() {}
 
+/**
+ * @brief Struct holding integer, float and string values grouped together
+ *
+ */
 struct namespaced_struct_s {
   int i;
   float f;
   std::string str;
 };
 
+/**
+ * @brief Class holding integer, float and string values grouped together
+ * Contains class specific behaviour
+ *
+ */
 class namespaced_class {
 public:
   namespaced_class() = default;
 
   // Public setter
+
+  /**
+   * @brief Class func to set integer, float and string values together
+   *
+   * @param i int value
+   * @param f float value
+   * @param str string value
+   */
   void class_func(int i, float f, const std::string &str) {
     private_func_i(i);
     private_func_f(f);

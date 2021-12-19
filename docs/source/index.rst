@@ -8,9 +8,11 @@ Welcome to CPP Sphinx Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
-
+   pages/important_links
+   pages/sphinx_cpp_usage
+   pages/source
 
 Indices and tables
 ==================
@@ -18,11 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-
-Docs
-====
-
-.. For now do not do anything else
-.. doxygennamespace:: nested::n
-   :outline:
