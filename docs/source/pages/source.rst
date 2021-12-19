@@ -50,8 +50,7 @@ Document individual enum / enum classes
 
 .. doxygenenum:: cpp_enum_e
 
-Literals / Defines
-===================
-
 File
 =====
+
+.. doxygenfile:: main.cpp
