@@ -35,6 +35,7 @@ extensions = [
 ]
 
 breathe_default_project = "cpp_sphinx_documentation"
+breathe_default_members = ('members', 'undoc-members')
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
