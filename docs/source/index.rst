@@ -10,7 +10,7 @@ Welcome to CPP Sphinx Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   pages/source
 
 Indices and tables
 ==================
@@ -18,11 +18,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-
-Docs
-====
-
-.. For now do not do anything else
-.. doxygennamespace:: nested::n
-   :outline:
