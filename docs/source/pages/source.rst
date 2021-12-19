@@ -24,6 +24,12 @@ Document individual functions
 Struct
 ======
 
+Document individual structs
+
+.. doxygenstruct:: vector_3_s
+
+.. doxygenstruct:: vector_3_st
+
 Class
 ======
 
