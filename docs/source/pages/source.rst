@@ -15,6 +15,12 @@ Document all the functions / structs / classes present inside the namespace ``ne
 Functions
 ==========
 
+Document individual functions
+
+.. doxygenfunction:: free_function
+
+.. doxygenfunction:: free_function_template
+
 Struct
 ======
 
